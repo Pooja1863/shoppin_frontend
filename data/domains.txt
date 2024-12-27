@@ -1,0 +1,5 @@
+example1.com
+example2.com
+example3.com
+shop.example4.com
+store.example5.com
